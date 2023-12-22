@@ -1,0 +1,26 @@
+.list {
+    margin-top: 12px;
+  }
+  
+  .item {
+    font-weight: 400;
+    font-size: 14px;
+  
+    background-color: #2a2a2a;
+    border-radius: 14px;
+  }
+  
+  .item:not(:last-child) {
+    margin-bottom: 6px;
+  }
+  
+  .link {
+    display: block;
+    padding: 16px 16px;
+  }
+  
+  .item:hover,
+  .item:focus {
+    background-color: #ffc700;
+    color: #111111;
+  }
