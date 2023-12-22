@@ -6,7 +6,7 @@
     font-weight: 400;
     font-size: 14px;
   
-    background-color: #2a2a2a;
+    background-color:  (186, 205, 245);
     border-radius: 14px;
   }
   
@@ -21,6 +21,6 @@
   
   .item:hover,
   .item:focus {
-    background-color: #ffc700;
-    color: #111111;
+    background-color: (178, 189, 240);
+    color: #202e34;
   }
