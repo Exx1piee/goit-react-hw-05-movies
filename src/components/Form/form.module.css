@@ -27,10 +27,11 @@
   
     color: rgba(255, 255, 255, 0.2);
   
-    background: #2b2b2b;
+    background: #C9EDF0;
     border-radius: 10px;
   }
   
   .button:hover {
-    color: rgb(151, 30, 30);
+    color: rgb(60, 76, 71);
+    background: #B5E2E6;
   }

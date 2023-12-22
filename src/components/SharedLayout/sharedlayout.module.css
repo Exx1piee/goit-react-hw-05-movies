@@ -24,11 +24,11 @@
   
   .item:hover,
   .item:focus {
-    color: (178, 189, 240);
+    color: rgb(178, 189, 240);
     text-decoration: underline;
   }
   
   .active {
-    color: (178, 189, 240);
+    color: rgb(178, 189, 240);
     text-decoration: underline;
   }
