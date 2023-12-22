@@ -16,7 +16,7 @@ const Cast = () => {
     const fetchCast = async () => {
       try {
         const cast = await getCastMovie(movieId);
-        // setCast(cast);
+        
         if (cast) {
           setCast(cast);
         } else {
